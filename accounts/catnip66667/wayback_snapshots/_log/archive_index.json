@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T06:19:54",
+  "last_updated": "2026-07-04T06:20:09",
   "html": {
     "https://web.archive.org/web/20260603201555if_/https://twitter.com/catnip66667/status/2062267052367516049": {
       "status": "done",
@@ -1264,14 +1264,14 @@
       "last_updated": "2026-07-04T06:11:13"
     },
     "https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260607195749_twitter_com_catnip66667_status_2063712051919564888.json",
         "20260607195815_twitter_com_catnip66667_status_2063712160266756436.json"
       ],
-      "last_updated": "2026-07-04T06:11:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607195815if_/https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0b80f35250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T06:20:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260607195815if_/https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg": {
       "status": "done",
@@ -2244,7 +2244,7 @@
       "last_updated": "2026-07-04T06:11:13"
     },
     "20260607195749_twitter_com_catnip66667_status_2063712051919564888.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2253,11 +2253,11 @@
           "https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T06:19:54",
+      "last_updated": "2026-07-04T06:20:09",
       "miss_count": 2
     },
     "20260607195815_twitter_com_catnip66667_status_2063712160266756436.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2266,7 +2266,7 @@
           "https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T06:19:54",
+      "last_updated": "2026-07-04T06:20:09",
       "miss_count": 2
     },
     "20260607201847_twitter_com_catnip66667_status_2063717325258518888.json": {
