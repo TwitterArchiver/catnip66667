@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065168372317528064"
+      ]
+    },
+    "author_id": "1989361915290910720",
+    "conversation_id": "2065168375324807482",
+    "created_at": "2026-06-11T20:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065168375324807482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589235830731997188",
+          "start": 3,
+          "username": "PWaterawa"
+        },
+        {
+          "end": 41,
+          "id": "1719378738369200128",
+          "start": 26,
+          "username": "ZihanWa6506025"
+        },
+        {
+          "end": 53,
+          "id": "1746359253135503360",
+          "start": 42,
+          "username": "MiaoYan__X"
+        },
+        {
+          "end": 79,
+          "id": "1880803334405435393",
+          "start": 63,
+          "username": "tiantmaoshenshi"
+        },
+        {
+          "end": 98,
+          "id": "1613835414036697089",
+          "start": 87,
+          "username": "TheFaust16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQrw9ud7z3",
+          "end": 138,
+          "expanded_url": "https://x.com/catnip66667/status/2065168375324807482/photo/1",
+          "media_key": "3_2065168372317528064",
+          "start": 115,
+          "url": "https://t.co/IQrw9ud7z3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065168375324807482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜\n@PWaterawa pr1000mg折6r\n@ZihanWa6506025 @MiaoYan__X 5.2红包各一份\n@tiantmaoshenshi 爱喜折20r\n@TheFaust16 抱抱\n已私信请在7月前找我兑奖 https://t.co/IQrw9ud7z3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_2065168372317528064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjzsWFboAAwg-Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065168372317528064"
+          ]
+        },
+        "author_id": "1989361915290910720",
+        "conversation_id": "2065168375324807482",
+        "created_at": "2026-06-11T20:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065168375324807482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589235830731997188",
+              "start": 3,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 41,
+              "id": "1719378738369200128",
+              "start": 26,
+              "username": "ZihanWa6506025"
+            },
+            {
+              "end": 53,
+              "id": "1746359253135503360",
+              "start": 42,
+              "username": "MiaoYan__X"
+            },
+            {
+              "end": 79,
+              "id": "1880803334405435393",
+              "start": 63,
+              "username": "tiantmaoshenshi"
+            },
+            {
+              "end": 98,
+              "id": "1613835414036697089",
+              "start": 87,
+              "username": "TheFaust16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQrw9ud7z3",
+              "end": 138,
+              "expanded_url": "https://x.com/catnip66667/status/2065168375324807482/photo/1",
+              "media_key": "3_2065168372317528064",
+              "start": 115,
+              "url": "https://t.co/IQrw9ud7z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065168375324807482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜\n@PWaterawa pr1000mg折6r\n@ZihanWa6506025 @MiaoYan__X 5.2红包各一份\n@tiantmaoshenshi 爱喜折20r\n@TheFaust16 抱抱\n已私信请在7月前找我兑奖 https://t.co/IQrw9ud7z3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 114,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pwaterawa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pwaterawa1",
+                "start": 0,
+                "url": "https://t.co/XINkJVVhgw"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1218,
+          "like_count": 2202,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/XINkJVVhgw",
+        "username": "PWaterawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T15:40:19.000Z",
+        "description": "",
+        "id": "1719378738369200128",
+        "name": "poem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046060679594139648/eN6_kLst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 81,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 433
+        },
+        "username": "ZihanWa6506025",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T02:31:17.000Z",
+        "description": "mtf🍥🏳️‍⚧️一只｜创建地球online账号日期：****.12.26（摩羯座）｜小证含糖 ，hrt：2025-12-25｜家长党｜精神状态还算稳定？ 不过负能量较高｜坐标**（目前不想说）｜有过od，划手｜无政治立场｜同类互fo（不一定经常在线）｜生在Spring风中，活在药效里",
+        "id": "1746359253135503360",
+        "name": "MiaoYan_渺湮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048030145311838208/2VjPnsP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 66,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 196
+        },
+        "username": "MiaoYan__X",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ",
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 654,
+          "like_count": 10888,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 5684
+        },
+        "username": "tiantmaoshenshi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T09:48:50.000Z",
+        "description": "En/中文\n=彩畫集",
+        "id": "1613835414036697089",
+        "name": "The Faust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985625847630610437/EWvCzho6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 753,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "TheFaust16",
+        "verified": false
+      }
+    ]
+  }
+}

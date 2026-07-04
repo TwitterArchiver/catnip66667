@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2064987573517512742",
+    "created_at": "2026-06-14T07:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066057971126464782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047614425012776961",
+          "start": 0,
+          "username": "Melody_0v0_"
+        },
+        {
+          "end": 27,
+          "id": "1293882138387980288",
+          "start": 13,
+          "username": "BhawnaniSamit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066057971126464782",
+    "in_reply_to_user_id": "2047614425012776961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064987573517512742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melody_0v0_ @BhawnaniSamit 来晚惹蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2064987573517512742",
+        "created_at": "2026-06-14T07:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066057971126464782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047614425012776961",
+              "start": 0,
+              "username": "Melody_0v0_"
+            },
+            {
+              "end": 27,
+              "id": "1293882138387980288",
+              "start": 13,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066057971126464782",
+        "in_reply_to_user_id": "2047614425012776961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064987573517512742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melody_0v0_ @BhawnaniSamit 来晚惹蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047614425012776961",
+        "conversation_id": "2064987573517512742",
+        "created_at": "2026-06-11T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064987573517512742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1293882138387980288",
+              "start": 83,
+              "username": "BhawnaniSamit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064987573517512742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2377,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂msk抽奖活动！\n一等奖🐱以所有产品任选一个包邮\n二等奖🐱是霜尘购1送1（仅限3颗）或者霜尘1颗\n三等奖🐱是霜尘1颗不包邮\n14号晚上8点开奖，转赞评喵！\n详情见@BhawnaniSamit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 117,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:51:52.000Z",
+        "description": "",
+        "id": "2047614425012776961",
+        "name": "痛み♪",
+        "pinned_tweet_id": "2056315867156369630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047619292150239232/cnGphgyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 184,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 584
+        },
+        "username": "Melody_0v0_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T12:09:06.000Z",
+        "description": "我是棉二。。【寻回互fo。。】\n聚集猫咪中！\n猫猫猫零食tg： @LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/hHWhyREu4r"
+              }
+            ]
+          }
+        },
+        "id": "1293882138387980288",
+        "location": "食堂",
+        "name": "mimi",
+        "pinned_tweet_id": "2065454812657852876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064600847338844160/fOowZd8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/hHWhyREu4r",
+        "username": "BhawnaniSamit",
+        "verified": false
+      }
+    ]
+  }
+}

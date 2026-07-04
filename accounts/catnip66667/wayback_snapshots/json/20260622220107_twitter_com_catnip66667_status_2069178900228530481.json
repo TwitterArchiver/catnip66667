@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2069167529227129010",
+    "created_at": "2026-06-22T22:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T23:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069178900228530481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069178900228530481",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069176001414967478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ pr或者合法的镇静类之类的比较好获取吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2069167529227129010",
+        "created_at": "2026-06-22T22:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069178900228530481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069178900228530481",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069176001414967478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ pr或者合法的镇静类之类的比较好获取吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2069167529227129010",
+        "created_at": "2026-06-22T21:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069176001414967478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069176001414967478",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069167529227129010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 还有什么好玩的吗👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ MY BOSS:@madina__mart此账号暂由两人管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 115,
+                "username": "madina__mart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOruku7o"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 116,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/mfFOruku7o",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用",
+        "id": "1771909316909604864",
+        "name": "QAQ🍥💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823299291697614848/qMjGAGYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 226,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

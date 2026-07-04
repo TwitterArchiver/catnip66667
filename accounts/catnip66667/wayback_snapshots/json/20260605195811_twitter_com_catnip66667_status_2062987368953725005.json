@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2060571087109513299",
+    "created_at": "2026-06-05T19:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062987368953725005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025702494429712384",
+          "start": 0,
+          "username": "lx05110829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062987368953725005",
+    "in_reply_to_user_id": "2025702494429712384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062855539705688262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx05110829 药效应该不会错 而且大胶囊装满了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2060571087109513299",
+        "created_at": "2026-06-05T19:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062987368953725005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025702494429712384",
+              "start": 0,
+              "username": "lx05110829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062987368953725005",
+        "in_reply_to_user_id": "2025702494429712384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062855539705688262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx05110829 药效应该不会错 而且大胶囊装满了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025702494429712384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2060571087109513299",
+        "created_at": "2026-06-05T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062855539705688262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062855539705688262",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060571087109513299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 这个真的有0.5g？我去真的假的，你有称吗称一下我不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 110,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T22:41:31.000Z",
+        "description": "",
+        "id": "2025702494429712384",
+        "name": "Lx05110829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045556064176013313/zo_9qh7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 176
+        },
+        "username": "lx05110829",
+        "verified": false
+      }
+    ]
+  }
+}

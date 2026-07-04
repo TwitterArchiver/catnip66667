@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2065082450871726150",
+    "created_at": "2026-06-12T05:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065301221133746418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878906587357818881",
+          "start": 0,
+          "username": "LiuGuang1002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065301221133746418",
+    "in_reply_to_user_id": "1878906587357818881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065226588791407025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuGuang1002 看自身使用剂量算 1t=2t玉米片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2065082450871726150",
+        "created_at": "2026-06-12T05:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065301221133746418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878906587357818881",
+              "start": 0,
+              "username": "LiuGuang1002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065301221133746418",
+        "in_reply_to_user_id": "1878906587357818881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065226588791407025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuGuang1002 看自身使用剂量算 1t=2t玉米片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878906587357818881",
+        "conversation_id": "2065082450871726150",
+        "created_at": "2026-06-12T00:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065226588791407025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065226588791407025",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065082450871726150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 这个要多少t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 115,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T20:47:06.000Z",
+        "description": "",
+        "id": "1878906587357818881",
+        "name": "liu guang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878906885627400192/LnO9Q8C4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "LiuGuang1002",
+        "verified": false
+      }
+    ]
+  }
+}

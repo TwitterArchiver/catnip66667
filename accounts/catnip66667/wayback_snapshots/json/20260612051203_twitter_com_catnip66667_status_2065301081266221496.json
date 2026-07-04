@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2065082450871726150",
+    "created_at": "2026-06-12T05:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065301081266221496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065301081266221496",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065295288911491218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider 一共20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2065082450871726150",
+        "created_at": "2026-06-12T05:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065301081266221496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065301081266221496",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065295288911491218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 一共20"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2065082450871726150",
+        "created_at": "2026-06-12T04:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065295288911491218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065295288911491218",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065082450871726150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 这个多少t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 115,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 33,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 10,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2060083221384310785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580752318286295040/CMv7KtOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 77,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 464
+        },
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

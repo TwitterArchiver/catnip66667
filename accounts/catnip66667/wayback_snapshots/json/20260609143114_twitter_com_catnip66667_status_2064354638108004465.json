@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2064354638108004465",
+    "created_at": "2026-06-09T14:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064354638108004465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547310338328080384",
+          "start": 3,
+          "username": "gaoliang0808"
+        }
+      ],
+      "urls": [
+        {
+          "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+          "display_url": "t.me/hinakofor1",
+          "end": 94,
+          "expanded_url": "https://t.me/hinakofor1",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "花粉聚集地",
+          "unwound_url": "https://t.me/hinakofor1",
+          "url": "https://t.co/Sm4ZWEhLdF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064354638108004465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064176286508155261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaoliang0808: 抽奖贴 新品登场! \n通过转帖 点赞 评论 关注参与\n满足上面条件后记得加tg群!\n群内还有很多抽奖ww https://t.co/Sm4ZWEhLdF\n一等奖 150mgpr 28t 抽一人\n二等奖 复方pr220mg 12t 抽二人\n超级…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2064175426168410112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVsnRbb0AAYHA7.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2064354638108004465",
+        "created_at": "2026-06-09T14:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064354638108004465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547310338328080384",
+              "start": 3,
+              "username": "gaoliang0808"
+            }
+          ],
+          "urls": [
+            {
+              "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+              "display_url": "t.me/hinakofor1",
+              "end": 94,
+              "expanded_url": "https://t.me/hinakofor1",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "花粉聚集地",
+              "unwound_url": "https://t.me/hinakofor1",
+              "url": "https://t.co/Sm4ZWEhLdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064354638108004465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064176286508155261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaoliang0808: 抽奖贴 新品登场! \n通过转帖 点赞 评论 关注参与\n满足上面条件后记得加tg群!\n群内还有很多抽奖ww https://t.co/Sm4ZWEhLdF\n一等奖 150mgpr 28t 抽一人\n二等奖 复方pr220mg 12t 抽二人\n超级…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064175426168410112"
+          ]
+        },
+        "author_id": "1547310338328080384",
+        "conversation_id": "2064176286508155261",
+        "created_at": "2026-06-09T02:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064176286508155261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大概就是一直制作cos道具的小窝 本窝售出的所有商品不可食用 可以聊聊天喵",
+              "display_url": "t.me/hinakofor1",
+              "end": 76,
+              "expanded_url": "https://t.me/hinakofor1",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063751458370330624/fXuemjiF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "花粉聚集地",
+              "unwound_url": "https://t.me/hinakofor1",
+              "url": "https://t.co/Sm4ZWEhLdF"
+            },
+            {
+              "display_url": "pic.x.com/e7vyZOysXt",
+              "end": 201,
+              "expanded_url": "https://x.com/gaoliang0808/status/2064176286508155261/photo/1",
+              "media_key": "3_2064175426168410112",
+              "start": 178,
+              "url": "https://t.co/e7vyZOysXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064176286508155261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1455,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴 新品登场! \n通过转帖 点赞 评论 关注参与\n满足上面条件后记得加tg群!\n群内还有很多抽奖ww https://t.co/Sm4ZWEhLdF\n一等奖 150mgpr 28t 抽一人\n二等奖 复方pr220mg 12t 抽二人\n超级安慰奖 柠檬水 十杯 抽十人\n迟到的儿童节礼物旺仔qq糖 抽十包\n被抽到的概率非常非常大。\n因为是延迟发货的补偿 https://t.co/e7vyZOysXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 113,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私  转帖点点赞就行啦 花粉聚集地https://t.co/5hrXf0TC6k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hinakofor1",
+                "end": 102,
+                "expanded_url": "https://t.me/hinakofor1",
+                "start": 79,
+                "url": "https://t.co/5hrXf0TC6k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "破滅道心（小花导）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 370,
+          "like_count": 1817,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": false
+      }
+    ]
+  }
+}

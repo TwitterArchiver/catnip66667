@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2067971240611229919",
+    "created_at": "2026-06-19T14:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067971240611229919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jinggebiezhuaw…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Jinggebiezhuaw/status/2067290720852148464",
+          "start": 15,
+          "url": "https://t.co/GhzR5VCiHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067971240611229919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067290720852148464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戒断是为了恢复耐受od时更爽 https://t.co/GhzR5VCiHM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2067971240611229919",
+        "created_at": "2026-06-19T14:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067971240611229919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jinggebiezhuaw…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Jinggebiezhuaw/status/2067290720852148464",
+              "start": 15,
+              "url": "https://t.co/GhzR5VCiHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067971240611229919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067290720852148464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒断是为了恢复耐受od时更爽 https://t.co/GhzR5VCiHM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2067290720852148464",
+        "created_at": "2026-06-17T16:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067290720852148464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067290720852148464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9532,
+          "like_count": 164,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我戒毒是为了复吸的时候更爽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ BOSS:@madina__mart",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "madina__mart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 117,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 441,
+          "like_count": 1112,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

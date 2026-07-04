@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2061978088876204213",
+    "created_at": "2026-06-03T21:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062287829074624969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062287829074624969",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061978088876204213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 我看见了我死在房间里灵魂飘在空中看着我的尸体 门外还有晶想抓我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061978055535718400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2eHd7bcAARZ_n.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2061978088876204213",
+        "created_at": "2026-06-03T21:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062287829074624969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062287829074624969",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061978088876204213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 我看见了我死在房间里灵魂飘在空中看着我的尸体 门外还有晶想抓我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061978055535718400"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2061978088876204213",
+        "created_at": "2026-06-03T01:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061978088876204213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUIO12Lyg0",
+              "end": 114,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2061978088876204213/photo/1",
+              "media_key": "3_2061978055535718400",
+              "start": 91,
+              "url": "https://t.co/gUIO12Lyg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061978088876204213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 625,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实本来也下单了晚安（我喜欢幻觉）但实在是看到了太多对晚安的负面评价，又默默退款了，虽然我挺好奇的，（怕跟右美一样给我一顿暴揍）这样看起来还蛮恐怖的...感觉有点自我意识消融吗🤔 https://t.co/gUIO12Lyg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 103,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 364,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

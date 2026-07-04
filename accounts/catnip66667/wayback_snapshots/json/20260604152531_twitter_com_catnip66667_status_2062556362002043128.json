@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2061912985921269830",
+    "created_at": "2026-06-04T15:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062556362002043128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831328988960034816",
+          "start": 0,
+          "username": "55ghcgxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062556362002043128",
+    "in_reply_to_user_id": "1831328988960034816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062550252046155818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55ghcgxc 我现在抽的是冰爆 其实感觉有点太冰了 小黑条我感觉是不错的就是看不见油不知道什么时候抽完 感觉你可以先试试鸭嘴兽 这个挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2061912985921269830",
+        "created_at": "2026-06-04T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062556362002043128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831328988960034816",
+              "start": 0,
+              "username": "55ghcgxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556362002043128",
+        "in_reply_to_user_id": "1831328988960034816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550252046155818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55ghcgxc 我现在抽的是冰爆 其实感觉有点太冰了 小黑条我感觉是不错的就是看不见油不知道什么时候抽完 感觉你可以先试试鸭嘴兽 这个挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831328988960034816",
+        "conversation_id": "2061912985921269830",
+        "created_at": "2026-06-04T15:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062550252046155818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062550252046155818",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062327624559694263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 有没有什么推荐的呀，我喜欢甜口的，其他的没有什么要求平价一点就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 104,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜🚪66",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/55ghcgxc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/55ghcgxc",
+                "start": 0,
+                "url": "https://t.co/3h8JwIgoIX"
+              }
+            ]
+          }
+        },
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054567871045570561/97DrHAv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 264,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/3h8JwIgoIX",
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

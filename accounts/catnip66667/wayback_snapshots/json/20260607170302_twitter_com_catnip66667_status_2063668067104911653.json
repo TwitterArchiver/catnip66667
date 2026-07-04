@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2063460909281157444",
+    "created_at": "2026-06-07T17:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063668067104911653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025702494429712384",
+          "start": 0,
+          "username": "lx05110829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063668067104911653",
+    "in_reply_to_user_id": "2025702494429712384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063460909281157444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx05110829 我去早知道我就去高考了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2063460909281157444",
+        "created_at": "2026-06-07T17:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063668067104911653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025702494429712384",
+              "start": 0,
+              "username": "lx05110829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063668067104911653",
+        "in_reply_to_user_id": "2025702494429712384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063460909281157444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx05110829 我去早知道我就去高考了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025702494429712384",
+        "conversation_id": "2063460909281157444",
+        "created_at": "2026-06-07T03:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063460909281157444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063460909281157444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考考生凭准考证在我这免费领取10g普瑞，真的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 110,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T22:41:31.000Z",
+        "description": "",
+        "id": "2025702494429712384",
+        "name": "Lx05110829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045556064176013313/zo_9qh7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 184
+        },
+        "username": "lx05110829",
+        "verified": false
+      }
+    ]
+  }
+}

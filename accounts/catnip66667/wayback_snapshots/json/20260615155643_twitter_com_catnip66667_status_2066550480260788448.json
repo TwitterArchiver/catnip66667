@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2066522414708830549",
+    "created_at": "2026-06-15T15:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066550480260788448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785999045087125504",
+          "start": 0,
+          "username": "Tranquilnight01"
+        },
+        {
+          "end": 33,
+          "id": "1012078861784354816",
+          "start": 17,
+          "username": "2d4SEUFUBFzltqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066550480260788448",
+    "in_reply_to_user_id": "1785999045087125504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066539905644413280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tranquilnight01 @2d4SEUFUBFzltqB 不能哦 这次只抽东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2066522414708830549",
+        "created_at": "2026-06-15T15:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066550480260788448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785999045087125504",
+              "start": 0,
+              "username": "Tranquilnight01"
+            },
+            {
+              "end": 33,
+              "id": "1012078861784354816",
+              "start": 17,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550480260788448",
+        "in_reply_to_user_id": "1785999045087125504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066539905644413280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tranquilnight01 @2d4SEUFUBFzltqB 不能哦 这次只抽东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785999045087125504",
+        "conversation_id": "2066522414708830549",
+        "created_at": "2026-06-15T15:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066539905644413280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            },
+            {
+              "end": 29,
+              "id": "1012078861784354816",
+              "start": 13,
+              "username": "2d4SEUFUBFzltqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066539905644413280",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522414708830549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 @2d4SEUFUBFzltqB 可以折现吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 116,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:45:44.000Z",
+        "description": "Materialist,pacifist and furry Following back is always welcomed",
+        "id": "1785999045087125504",
+        "location": "Antarctica",
+        "name": "赤海绛天夜夜心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010308889992949760/KRz7spy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 2078,
+          "like_count": 6606,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2142
+        },
+        "username": "Tranquilnight01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T21:02:58.000Z",
+        "description": "爱你们",
+        "id": "1012078861784354816",
+        "name": "爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "username": "2d4SEUFUBFzltqB",
+        "verified": false
+      }
+    ]
+  }
+}

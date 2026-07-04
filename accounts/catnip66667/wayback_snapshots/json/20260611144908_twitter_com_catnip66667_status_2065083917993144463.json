@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2064758168052539540",
+    "created_at": "2026-06-11T14:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065083917993144463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065083917993144463",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064758168052539540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lvovl3 711不好吃 罗森好吃!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2064758168052539540",
+        "created_at": "2026-06-11T14:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065083917993144463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065083917993144463",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064758168052539540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lvovl3 711不好吃 罗森好吃!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2064758168052539540",
+        "created_at": "2026-06-10T17:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064758168052539540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064758168052539540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我家旁边为啥开的不是711😭😭\n友客的饭团又贵又难吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 114,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n嫡嫡道道餐券女/全世界最恨homework之人\n人生是被恐惧追赶着逃跑",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2051808991211389330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045457060691947520/5tmyTi7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 371,
+          "like_count": 2829,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 3060
+        },
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

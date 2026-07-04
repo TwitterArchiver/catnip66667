@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2062266920804737201",
+    "created_at": "2026-06-03T20:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062266920804737201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757603703811371008",
+          "start": 3,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062266920804737201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061928372524261835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11andpr89648964: 1000fo纪念抽奖\n突破1000fo我也是剧烈高兴啊。\n为了感谢各位的陪伴 抽个奖w\n\n一等：🎁10tpr✖️1（4t喜思平6t手搓）\n二等：柠檬水✖️3\n\n参与方式：\n转发点赞评论\n开奖时间：6.6\n祝你我都能在烂透了的现实里 多捡…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2062266920804737201",
+        "created_at": "2026-06-03T20:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062266920804737201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757603703811371008",
+              "start": 3,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062266920804737201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061928372524261835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11andpr89648964: 1000fo纪念抽奖\n突破1000fo我也是剧烈高兴啊。\n为了感谢各位的陪伴 抽个奖w\n\n一等：🎁10tpr✖️1（4t喜思平6t手搓）\n二等：柠檬水✖️3\n\n参与方式：\n转发点赞评论\n开奖时间：6.6\n祝你我都能在烂透了的现实里 多捡…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2061928372524261835",
+        "created_at": "2026-06-02T21:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061928372524261835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061928372524261835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2294,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念抽奖\n突破1000fo我也是剧烈高兴啊。\n为了感谢各位的陪伴 抽个奖w\n\n一等：🎁10tpr✖️1（4t喜思平6t手搓）\n二等：柠檬水✖️3\n\n参与方式：\n转发点赞评论\n开奖时间：6.6\n祝你我都能在烂透了的现实里 多捡到一点快乐\n（我很穷只能这样了～希望有人参与）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 101,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 774,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1425
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

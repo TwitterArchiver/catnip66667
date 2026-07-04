@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2061792178725368219",
+    "created_at": "2026-06-03T21:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062285769964924960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062285769964924960",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061792178725368219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 可以找你批发了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2061792150770372608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz1CYtbUAAjm1B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2061792178725368219",
+        "created_at": "2026-06-03T21:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062285769964924960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062285769964924960",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061792178725368219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 可以找你批发了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061792150770372608"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061792178725368219",
+        "created_at": "2026-06-02T12:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061792178725368219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BG4sRzeZ7I",
+              "end": 32,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2061792178725368219/photo/1",
+              "media_key": "3_2061792150770372608",
+              "start": 9,
+              "url": "https://t.co/BG4sRzeZ7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061792178725368219",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 442,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "boompala https://t.co/BG4sRzeZ7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 103,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 108,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 770
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}
