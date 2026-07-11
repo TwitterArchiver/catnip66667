@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-11T14:54:15",
+  "last_updated": "2026-07-11T14:54:26",
   "html": {
     "https://web.archive.org/web/20260603201555if_/https://twitter.com/catnip66667/status/2062267052367516049": {
       "status": "done",
@@ -1696,22 +1696,25 @@
       "last_updated": "2026-07-04T06:11:14"
     },
     "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260704020113_twitter_com_catnip66667_status_2073225590065533329.json"
-      ]
+      ],
+      "last_updated": "2026-07-11T14:54:25"
     },
     "https://pbs.twimg.com/profile_images/2072347563806912512/DRTPLYd8_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260705072522_twitter_com_catnip66667_status_2073669552546959759.json"
-      ]
+      ],
+      "last_updated": "2026-07-11T14:54:25"
     },
     "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260706131949_twitter_com_catnip66667_status_2074121137194483837.json"
-      ]
+      ],
+      "last_updated": "2026-07-11T14:54:26"
     }
   },
   "media": {
@@ -3572,7 +3575,7 @@
       "last_updated": "2026-07-04T06:11:14"
     },
     "20260704020113_twitter_com_catnip66667_status_2073225590065533329.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3581,10 +3584,10 @@
           "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T14:54:15"
+      "last_updated": "2026-07-11T14:54:25"
     },
     "20260705072522_twitter_com_catnip66667_status_2073669552546959759.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3594,10 +3597,10 @@
           "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T14:54:15"
+      "last_updated": "2026-07-11T14:54:25"
     },
     "20260706131949_twitter_com_catnip66667_status_2074121137194483837.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3606,7 +3609,7 @@
           "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T14:54:15"
+      "last_updated": "2026-07-11T14:54:26"
     },
     "20260707204605_twitter_com_catnip66667_status_2074595835195842669.json": {
       "status": "done",
