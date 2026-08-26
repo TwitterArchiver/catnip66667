@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2079179473799524815",
+    "created_at": "2026-07-22T07:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079825912439431388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079825912439431388",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079179473799524815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 尼古丁最棒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079179467856248832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq6tcXbgAA4utj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2079179473799524815",
+        "created_at": "2026-07-22T07:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079825912439431388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079825912439431388",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079179473799524815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 尼古丁最棒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079179467856248832"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079179473799524815",
+        "created_at": "2026-07-20T12:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079179473799524815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXBWw3yQB9",
+              "end": 33,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2079179473799524815/photo/1",
+              "media_key": "3_2079179467856248832",
+              "start": 10,
+              "url": "https://t.co/WXBWw3yQB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079179473799524815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2381,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一盒烟的完美形态👍 https://t.co/WXBWw3yQB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ 此账号偶尔由小爱代理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 139,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 241,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

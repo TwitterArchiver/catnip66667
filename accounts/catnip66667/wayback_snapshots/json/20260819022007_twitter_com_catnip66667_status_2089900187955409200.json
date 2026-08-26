@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2089900187955409200",
+    "created_at": "2026-08-19T02:20:07.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089900187955409200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089900187955409200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "躁郁切换也太快了 一来动力就疯狂工作出去玩大吃特吃 然后一到抑郁状态就吃不进去只能躺着脑子里还是胡思乱想 已经掉了五斤了胃要抗议了(T^T)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2089900187955409200",
+        "created_at": "2026-08-19T02:20:07.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089900187955409200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089900187955409200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躁郁切换也太快了 一来动力就疯狂工作出去玩大吃特吃 然后一到抑郁状态就吃不进去只能躺着脑子里还是胡思乱想 已经掉了五斤了胃要抗议了(T^T)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/music",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOruku7o"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "is_identity_verified": false,
+        "location": "netherworld",
+        "most_recent_tweet_id": "2089900187955409200",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989361915290910720/1776359719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 137,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/mfFOruku7o",
+        "username": "catnip66667",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2084563743435010484",
+    "created_at": "2026-08-05T17:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085053087845368082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085053087845368082",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084563743435010484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 蹲蹲看有啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2084563743435010484",
+        "created_at": "2026-08-05T17:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085053087845368082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085053087845368082",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084563743435010484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 蹲蹲看有啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2084563743435010484",
+        "created_at": "2026-08-04T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084563743435010484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084563743435010484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲暇之余会出一些自用闲置物质！有需要可以私信！🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ 此账号偶尔被小爱盗取",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 140,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟ ",
+        "name": "山本殺し✰（出💊版）",
+        "pinned_tweet_id": "2084563743435010484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 303,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

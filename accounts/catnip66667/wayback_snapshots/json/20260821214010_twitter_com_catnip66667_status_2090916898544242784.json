@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2090916898544242784",
+    "created_at": "2026-08-21T21:40:10.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T22:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090916898544242784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557156548870373376",
+          "start": 3,
+          "username": "heavens_sickest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090916898544242784",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090571480094412980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heavens_sickest: once i cure my depression, bpd, ocd, anxiety, eating disorder, avoidant tendencies, resistance to change, and fear of…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2090916898544242784",
+        "created_at": "2026-08-21T21:40:10.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090916898544242784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557156548870373376",
+              "start": 3,
+              "username": "heavens_sickest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090916898544242784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090571480094412980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heavens_sickest: once i cure my depression, bpd, ocd, anxiety, eating disorder, avoidant tendencies, resistance to change, and fear of…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557156548870373376",
+        "conversation_id": "2090571480094412980",
+        "created_at": "2026-08-20T22:47:36.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090571480094412980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090571480094412980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 500,
+          "impression_count": 79503,
+          "like_count": 7853,
+          "quote_count": 74,
+          "reply_count": 16,
+          "retweet_count": 2463
+        },
+        "reply_settings": "everyone",
+        "text": "once i cure my depression, bpd, ocd, anxiety, eating disorder, avoidant tendencies, resistance to change, and fear of the unknown it’s over for u hoes"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/music",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOruku7o"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "is_identity_verified": false,
+        "location": "netherworld",
+        "most_recent_tweet_id": "2090916898544242784",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989361915290910720/1776359719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 133,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/mfFOruku7o",
+        "username": "catnip66667",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-10T00:07:37.000Z",
+        "description": "heaven’s sickest angel",
+        "id": "1557156548870373376",
+        "is_identity_verified": false,
+        "location": "mdni",
+        "most_recent_tweet_id": "2090911304542204313",
+        "name": "♰",
+        "pinned_tweet_id": "2078763077009334738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557156548870373376/1785365740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068109108578852864/aY75V86L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 215,
+          "like_count": 2682,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "heavens_sickest",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

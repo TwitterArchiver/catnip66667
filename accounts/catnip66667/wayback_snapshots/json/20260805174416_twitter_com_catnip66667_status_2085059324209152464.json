@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989361915290910720",
+    "conversation_id": "2085058092484739301",
+    "created_at": "2026-08-05T17:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085059324209152464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085059324209152464",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085058454830334328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 666无从推断智商  ok我已成功退化大脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989361915290910720",
+        "conversation_id": "2085058092484739301",
+        "created_at": "2026-08-05T17:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085059324209152464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085059324209152464",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085058454830334328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 666无从推断智商  ok我已成功退化大脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2085058092484739301",
+        "created_at": "2026-08-05T17:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085058454830334328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989361915290910720",
+              "start": 0,
+              "username": "catnip66667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085058454830334328",
+        "in_reply_to_user_id": "1989361915290910720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "性别：they/she（非二元倾向）\n性取向：pan\n年龄：未公开\n心理年龄：受创伤影响偏幼\n爱好：音乐、药物、吸烟、alt\n智商：无法从推文判断\n形容词：消极、焦虑、抑郁、脆弱、反叛\n5喜欢：音乐、pr、烟草、自我发泄、负能量\n5不喜欢：伤口护理、烟疤、DXM副作用、睡眠差、情绪空洞\n伴侣：推文中无明显伴侣，倾向孤独/药物相伴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085058092484739301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catnip66667 性别：they/she（非二元倾向）\n性取向：pan\n年龄：未公开\n心理年龄：受创伤影响偏幼\n爱好：音乐、药物、吸烟、alt\n智商：无法从推文判断\n形容词：消极、焦虑、抑郁、脆弱、反叛\n5喜欢：音乐、pr、烟草、自我发泄、负能量\n5不喜欢：伤口护理、烟疤、DXM副作用、睡眠差、情绪空洞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-14T15:57:26.000Z",
+        "description": "此账号完全传播负能量请谨慎点击\nthey/she/pan/称呼随意 可以叫我catnip或者猫草\n☠︎overdose☠︎/消极的/neet/焦虑/抑郁/被害妄想/CPTSD/alt/lip/pac/music♡ 此账号偶尔被小爱盗取",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idc86908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/idc86908",
+                "start": 0,
+                "url": "https://t.co/mfFOrul1WW"
+              }
+            ]
+          }
+        },
+        "id": "1989361915290910720",
+        "location": "netherworld",
+        "name": "If I Never Wake Again☣︎",
+        "pinned_tweet_id": "2060382093709119775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044826986280009728/EOFKpMO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 140,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/mfFOrul1WW",
+        "username": "catnip66667",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8918616,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7275,
+          "media_count": 9223594,
+          "tweet_count": 134289070
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}
